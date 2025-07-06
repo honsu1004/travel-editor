@@ -51,3 +51,6 @@
 - WebSocket：テキストチャット
 - Active Storage + Action Cable：URL添付／コメント表示
 - PaperTrail：変更履歴／タイムライン
+
+### 画面遷移図
+Figma：https://www.figma.com/design/oIXWaZCKrFmO5HgrpdYBSi/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&p=f&t=XGWuqRjDx0uZauWu-0
