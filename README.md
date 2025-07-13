@@ -54,3 +54,6 @@
 
 ### 画面遷移図
 Figma：https://www.figma.com/design/pMVO904SdNUUa6pHF4aDX4/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B32?node-id=0-1&p=f&t=uKZ7G5H989ioYirH-0
+
+### ER図
+drawio：https://app.diagrams.net/?libs=general;er#Hhonsu1004%2Ftravel-editor%2Fadd-readme%2Fadd-er-diagram.drawio#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
